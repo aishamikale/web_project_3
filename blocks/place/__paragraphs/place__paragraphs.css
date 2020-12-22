@@ -1,0 +1,25 @@
+.place__paragraphs {
+    padding-top: 32px;
+    max-width: 484px;
+  }
+
+  @media screen and (max-width: 1140px) {
+      .place__paragraphs {
+        padding-top: 32px;
+        max-width: 456px;
+      }
+}
+
+@media screen and (max-width: 958px) {
+    .place__paragraphs {
+      padding-top: 26px;
+      max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .place__paragraphs {
+      padding-top: 12px;
+      max-width: 484px;
+    }
+}

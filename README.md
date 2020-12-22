@@ -2,19 +2,22 @@
 
 ### Overview
 * Intro
-* Figma
-* Images
+* Functionality
+* Sys Requirements
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is about taking a trip from Portland, Maine to Portland, Oregon. The project was created to fit popular screen sizes, such as 1280px, 1024px, 768px, and 320px. 
 
-**Figma**
+**Functionality &Features**
+Media queries and responsive units of measurements were used to create a responsive website that is accessible on various devices. BEM methodology was also used for file structures and class naming for an easily accessible codebase. 
 
-* [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+**System Requirements**
+####Visual Studio Code ####
+Version: 1.52.1
+Date: 2020-12-16T16:30:02.420Z (5 days ago)
+Electron: 9.3.5
+Chrome: 83.0.4103.122
+Node.js: 12.14.1
+V8: 8.3.110.13-electron.0
+OS: Darwin x64 19.6.0
