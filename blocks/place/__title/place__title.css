@@ -1,4 +1,7 @@
 .place__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
     grid-area: top-left;
     max-width: 460px;
     max-height: 152px;

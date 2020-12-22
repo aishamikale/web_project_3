@@ -1,4 +1,7 @@
 .cover__title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
   position: relative;
   z-index: 1;
   font-size: 72px;

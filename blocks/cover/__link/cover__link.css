@@ -1,7 +1,7 @@
 .cover__link {
   position: relative;
   min-height: 740px;
-  background-image: url(/images/cover-route-66.jpg);
+  background-image: url(../../../images/cover-route-66.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

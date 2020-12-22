@@ -1,4 +1,7 @@
 .cover__text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
   position: relative;
   z-index: 1;
   margin: 0;
