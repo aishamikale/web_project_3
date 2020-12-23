@@ -1,13 +1,16 @@
-@import url(./__lang-links/header__lang-links.css);
 @import url(./__lang-link/header__lang-link.css);
+@import url(./__lang-link/_lang/header__lang-link_lang_english.css);
+@import url(./__lang-link/_lang/header__lang-link_lang_spanish.css);
+@import url(./__lang-links/header__lang-links.css);
+@import url(./__list-item/header__list-item.css);
 
 .header {
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
     max-width: 984px;
     margin: 0 auto 58px auto;
     padding-top: 26px;
+    font-family: 'Inter', Arial, sans-seif;
 }
 
 @media screen and (max-width: 1140px) {
@@ -20,14 +23,11 @@
 @media screen and (max-width: 958px) {
     .header {
         max-width: 720px;
-        margin: 0 auto 50px auto;
     }
 }
 @media screen and (max-width: 425px) {
     .header {
-        display: flex;
         max-width: 288px;
-        margin: 0 auto 50px auto;
         padding-top: 20px;
     }
 }
