@@ -1,9 +1,3 @@
 .lead__image {
   max-width: 100%;
 }
-
-@media screen and (max-width: 425px) {
-  .lead__image {
-      max-width: 100%;
-  }
-}

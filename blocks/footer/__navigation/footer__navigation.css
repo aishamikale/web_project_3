@@ -1,4 +1,27 @@
 .footer__navigation {
+    max-width: 100%;
     display: flex;
     justify-content: space-between;
+}
+
+@media screen and (max-width: 1140px) {
+    .footer__navigation {
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+@media screen and (max-width: 958px) {
+    .footer__navigation {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .footer__navigation {
+        display: block;
+        max-width: 320px;
+        min-height: 198px;
+    }
 }

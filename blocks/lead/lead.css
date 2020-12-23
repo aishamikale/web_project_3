@@ -4,14 +4,13 @@
 @import url(./__title/lead__title.css);
 
 .lead {
-    max-width: 989px;
+    max-width: 984px;
     margin: 0 auto 80px auto;
 }
 
 @media screen and (max-width: 1140px) {
     .lead {
         max-width: 928px;
-        margin: 0 auto 80px auto;
     }
 }
 
