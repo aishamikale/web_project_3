@@ -2,28 +2,28 @@
     grid-area: bottom-left;
     margin-top: 46px;
     max-width: 100%;
-    max-height: 460px;
+    /*max-height: 460px;*/
   }
 
   @media screen and (max-width: 1140px) {
       .place__image {
-        max-width: 440px;
-        max-height: 440px;
+        max-width: 100%;
+        /*max-height: 440px;*/
       }
 }
 
 @media screen and (max-width: 958px) {
     .place__image {
       margin-top: 42px;
-      max-width: 340px;
-      max-height: 340px;
+      max-width: 100%;
+      /*max-height: 340px;*/
     }
 }
 
 @media screen and (max-width: 425px) {
     .place__image {
       margin-top: 32px;
-      max-width: 320px;
-      max-height: 320px;
+      max-width: 100%;
+      /*max-height: 320px;*/
     }
 }
