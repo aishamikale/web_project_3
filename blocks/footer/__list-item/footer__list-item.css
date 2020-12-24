@@ -3,6 +3,10 @@
     margin-right: 24px;
 }
 
+.footer__list-item:last-of-type {
+    margin-right: 0;
+  }
+
 @media screen and (max-width: 425px) {
     .footer__list-item {
         margin-bottom: 32px;

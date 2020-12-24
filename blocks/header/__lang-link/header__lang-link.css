@@ -1,5 +1,4 @@
 .header__lang-link {
-  margin-right: 10px;
   font-size: 24px;
   line-height: 28px;
   text-decoration: none;
@@ -11,10 +10,6 @@
 .header__lang-link:hover {
   opacity: 0.8;
   transition-duration: 0.5s;
-}
-
-.header__lang-link:active {
-  text-decoration: underline;
 }
 
 @media screen and (max-width: 425px) {

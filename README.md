@@ -12,7 +12,7 @@ This project is about taking a trip from Portland, Maine to Portland, Oregon. Th
 **Functionality &Features**
 Media queries and responsive units of measurements were used to create a responsive website that is accessible on various devices. BEM methodology was also used for file structures and class naming for an easily accessible codebase. 
 
-Link to project: https://github.com/aishamikale/web_project_3
+Link to project: https://aishamikale.github.io/web_project_3/index.html
 
 **System Requirements**
 ####Visual Studio Code ####

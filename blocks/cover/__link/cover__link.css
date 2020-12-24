@@ -13,7 +13,7 @@
   flex-direction: column;
   color: white;
   text-decoration: none;
-  margin-bottom: 40px;
+  margin-bottom: 92px;
 }
 
 .cover__link:after {
@@ -41,6 +41,7 @@
 @media screen and (max-width: 958px) {
   .cover__link {
     min-height: 480px;
+    margin-bottom: 88px;
   }
 }
 

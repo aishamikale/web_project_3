@@ -2,13 +2,11 @@
     align-self: end;
     grid-area: top-right;
     max-width: 456px;
-    max-height: 46px;
   }
 
   @media screen and (max-width: 958px) {
       .place__website {
         max-width: 352px;
-        max-height: 46px;
       }
   }
 
