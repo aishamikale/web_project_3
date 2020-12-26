@@ -23,5 +23,6 @@
         display: block;
         max-width: 320px;
         min-height: 198px;
+        margin-left: 16px;
     }
 }
